@@ -7,6 +7,5 @@ This is a weather prediction app which pulls a current location and displays inf
 - Determining current location with CLLocationManager
 - JSON parsing using Codable
 - Display 5 day prediction using sectioned UITableView
-- Parsing into 
 - Autolayout with different layout for landscape view
 - Sharing with UIActivityViewController
