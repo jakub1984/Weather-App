@@ -1,6 +1,6 @@
 //
 //  ForecastModel.swift
-//  strvTestTask
+//  Weather
 //
 //  Created by Jakub Perich on 03/05/2019.
 //  Copyright © 2019 com.jakubperich. All rights reserved.
